@@ -1,0 +1,18 @@
+{
+  "name": "elgv2_nextjsnetlify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.0.5",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "styled-jsx": "^3.2.2"
+  }
+}
