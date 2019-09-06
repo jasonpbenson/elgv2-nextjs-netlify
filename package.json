@@ -11,8 +11,26 @@
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
     "next": "9.0.5",
+    "raw-loader": "^3.1.0",
     "react": "16.9.0",
     "react-dom": "16.9.0",
+    "react-markdown": "^4.2.2",
     "styled-jsx": "^3.2.2"
-  }
+  },
+  "devDependencies": {
+    "frontmatter-markdown-loader": "^2.0.0"
+  },
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonpbenson/elgv2-nextjs-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonpbenson/elgv2-nextjs-netlify/issues"
+  },
+  "homepage": "https://github.com/jasonpbenson/elgv2-nextjs-netlify#readme",
+  "description": ""
 }
